@@ -93,8 +93,11 @@ credit-card-analysis/
 │   └── Credit_Card_Analysis.ipynb
 │
 ├── graphs/
-│   └── monthly_spend.png
-│   └── yearly_air_ticket.png
+│   └── monthly_product_spend.png
+│   └── monthly_spend_city_wise.png
+│   └── yearly_air_ticket_spend.png
+│   └── yearly_total_spend_by_city_stacked_by_product.png
+│   └── yearly_total_spend_by_product_stacked_by_cities.png
 │
 └── README.md
 ```
